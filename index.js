@@ -1,3 +1,9 @@
+/*
+• Created By Lezz DcodeR
+• Support By Xnr Team
+^ Hargai Bang😁
+*/
+
 const {
     makeWASocket,
     useMultiFileAuthState,
