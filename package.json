@@ -1,0 +1,18 @@
+{
+  "name": "Simple WaBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Lezz DcodeR",
+  "tqto": ["XNR TEAM","LEZZ DCODER","KAYZX","UDIN","AND YOU"],
+  "license": "ISC",
+  "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.7.2",
+    "chalk": "^4.1.2",
+    "pino": "^9.7.0",
+    "readline": "^1.3.0"
+  }
+}
